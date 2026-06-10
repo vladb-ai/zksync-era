@@ -1,5 +1,12 @@
 # Changelog
 
+## [29.21.0](https://github.com/matter-labs/zksync-era/compare/core-v29.20.0...core-v29.21.0) (2026-06-10)
+
+
+### Features
+
+* **config:** allow setting l2_da_commitment_scheme before upgrade ([#4855](https://github.com/matter-labs/zksync-era/issues/4855)) ([2a0c27e](https://github.com/matter-labs/zksync-era/commit/2a0c27ef5887359f504132cd2be219b167b71ac3))
+
 ## [29.20.0](https://github.com/matter-labs/zksync-era/compare/core-v29.19.2...core-v29.20.0) (2026-06-04)
 
 
